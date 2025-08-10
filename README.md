@@ -1,6 +1,6 @@
 # Virat_Kohli_Performance_Analysis_Dashboard
 
-![Virat Kohli]
+![Virat Kohli](https://github.com/yadavnishit/Virat_Kohli_Performance_Analysis_Dashboard/blob/main/virat-kohli.webp)
 
 
 ## Project Overview :-
@@ -34,9 +34,23 @@ Power BI: For data visualization and dashboard creation.
 Python/Pandas: For data cleaning and preprocessing.
 Excel: For data storage and initial manipulation.
 
+
 ## How to Use
 
 Download the dataset and Power BI dashboard file from the repository.
 Open the Power BI file to explore the interactive dashboard.
 Use the slicers to filter data based on year, opponent, or ground.
 Hover over the charts for detailed insights.
+
+
+
+## Author - Nishit Kumar
+This project is part of my portfolio, showcasing the Power Bi skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
+
+Thank you for your support, and I look forward to connecting with you!
+
+
+
+
+
+
